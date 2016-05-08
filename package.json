@@ -1,0 +1,20 @@
+{
+  "name": "backpressure-queue",
+  "version": "1.0.0",
+  "description": "Managing the backpressure created by application against the a basic read stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babbarshaer/backpressure-queue.git"
+  },
+  "keywords": [],
+  "author": "babbarshaer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/babbarshaer/backpressure-queue/issues"
+  },
+  "homepage": "https://github.com/babbarshaer/backpressure-queue#readme"
+}
